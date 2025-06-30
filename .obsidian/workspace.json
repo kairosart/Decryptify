@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "ebac97619e5d4076",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4eb6b5328c9010d",
+        "type": "tabs",
+        "dimension": 75.50761421319797,
+        "children": [
+          {
+            "id": "203a4329cd56d594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          },
+          {
+            "id": "60825a59c0bfe774",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Api.php-20250630200435951.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Api.php-20250630200435951"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9cd6831357041279",
+        "type": "tabs",
+        "dimension": 24.492385786802032,
+        "children": [
+          {
+            "id": "dc1cb9b67ea4c119",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d43631c76edab659",
+    "type": "split",
+    "children": [
+      {
+        "id": "84a312a223740661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9c4cdafe83e6213",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "657c319f03dec69d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "env",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e5b362d87a3f2526",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5d865235b248c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "db09267ea51ac3c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23c198f537f0055b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f62e1205345c5a25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "2406bba1154e834c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fa91bb88e56b6e0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Index"
+            }
+          },
+          {
+            "id": "7be80e4c935904c8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5e1755b4db1ef1aa",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "afbc393aec26287c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "405b76a513962b1f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "juggl:Juggl global graph": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "203a4329cd56d594",
+  "lastOpenFiles": [
+    "README.md",
+    "ENUMERATION/Nmap.md",
+    "images/Api.php-20250630200435951.webp",
+    "ENUMERATION/Dirsearch.md",
+    "images/Dirsearch-20250630210012665.webp",
+    "ENUMERATION/Web server.md",
+    "images/Dirsearch-20250630202208790.webp",
+    "images/Dirsearch-20250630202023210.webp",
+    "images/Dirsearch-20250630201717363.webp",
+    "ENUMERATION/Api.php.md",
+    "Index.md",
+    "images/Nmap-20250625200721487.webp",
+    "Decryptify/README.md",
+    "Decryptify",
+    "images/Web server-20250625211303324.webp",
+    "images/Web server-20250625202951505.webp",
+    "Untitled",
+    "images/Nmap-20250625201412741.webp",
+    "ENUMERATION",
+    "images",
+    "images/Index-20250625195818582.webp",
+    "ENTRY HOST/Exploitation.md",
+    "ENTRY HOST/Enumeration.md",
+    "WINDOWS MACHINE/Privilege Escalation.md",
+    "WINDOWS MACHINE/Connecting to Windows Machine.md",
+    "ENTRY HOST/Privilege Escalation.md",
+    "Registration.md",
+    "docs/lib/media",
+    "docs/Registration.html",
+    "docs/index.html",
+    "docs/WINDOWS MACHINE/Privilege Escalation.html",
+    "docs/WINDOWS MACHINE/Connecting to Windows Machine.html",
+    "docs/WINDOWS MACHINE",
+    "Untitled.md",
+    "Bandit/README.md",
+    "Bandir/README.md"
+  ]
+}
