@@ -1,6 +1,6 @@
 - Visit http://10.10.58.13:1337/api.php.
 - Introduce the password from the previous step.
-- 
+
 
 ![[Api.php-20250630200435951.webp]]
 
