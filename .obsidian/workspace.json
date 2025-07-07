@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENUMERATION/Padding oracle.md",
+                "file": "EXPLOITATION/Getting first flag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Padding oracle"
+              "title": "Getting first flag"
             }
           },
           {
@@ -52,9 +52,21 @@
               "icon": "lucide-file",
               "title": "Exploiting the Padding Oracle for RCE"
             }
+          },
+          {
+            "id": "c0d5ffe7abdae121",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Exploiting the Padding Oracle for RCE-20250706201803599.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Exploiting the Padding Oracle for RCE-20250706201803599"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "9cd6831357041279",
@@ -192,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLOITATION/Exploiting the Padding Oracle for RCE.md",
+                "file": "images/Exploiting the Padding Oracle for RCE-20250706201803599.webp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exploiting the Padding Oracle for RCE"
+              "title": "Outline of Exploiting the Padding Oracle for RCE-20250706201803599"
             }
           },
           {
@@ -262,16 +274,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e32ae352996c3153",
+  "active": "d9c4cdafe83e6213",
   "lastOpenFiles": [
-    "ENUMERATION/Padding oracle.md",
+    "EXPLOITATION/Getting the second flag.md",
     "EXPLOITATION/Exploiting the Padding Oracle for RCE.md",
     "EXPLOITATION/Getting first flag.md",
-    "EXPLOITATION/Reverse Engineering Invite Code Generation.md",
+    "images/Exploiting the Padding Oracle for RCE-20250706205324557.webp",
+    "images/Exploiting the Padding Oracle for RCE-20250706205130676.webp",
+    "images/Exploiting the Padding Oracle for RCE-20250706202420331.webp",
     "ENUMERATION/Nmap.md",
+    "EXPLOITATION/Reverse Engineering Invite Code Generation.md",
+    "images/Exploiting the Padding Oracle for RCE-20250706201803599.webp",
+    "ENUMERATION/Padding oracle.md",
     "Untitled",
     "ENUMERATION/Api.php.md",
-    "Getting first flag-20250701205153762.webp",
+    "images/Getting first flag-20250701205153762.webp",
     "ENUMERATION/Web server.md",
     "ENUMERATION/Dirsearch.md",
     "images/Api.php-20250630200435951.webp",
@@ -282,12 +299,8 @@
     "images/Dirsearch-20250630202208790.webp",
     "images/Dirsearch-20250630202023210.webp",
     "images/Dirsearch-20250630201717363.webp",
-    "images/Nmap-20250625200721487.webp",
     "Decryptify/README.md",
     "Decryptify",
-    "images/Web server-20250625211303324.webp",
-    "images/Web server-20250625202951505.webp",
-    "images/Nmap-20250625201412741.webp",
     "ENUMERATION",
     "images",
     "ENTRY HOST/Exploitation.md",
