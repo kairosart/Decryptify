@@ -20,6 +20,7 @@ This suggests that the invite code generation process for `hello@fake.thm` may
 
 ![[Dirsearch-20250630210012665.webp]]
 
+**Next step:** [[Reverse Engineering Invite Code Generation]]
 
 
 

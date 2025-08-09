@@ -4,3 +4,15 @@ Start the VM by clicking the `Start Machine` button at the top right of the 
 
 _Can you decrypt the secrets and_ _get RCE on the system?_
 
+## Steps
+
+[[Nmap]]
+[[Web server]]
+[[Api.php]]
+[[Dirsearch]]
+[[Reverse Engineering Invite Code Generation]]
+[[Getting first flag]]
+[[Padding oracle]]
+[[Exploiting the Padding Oracle for RCE]]
+[[Getting the second flag]]
+
