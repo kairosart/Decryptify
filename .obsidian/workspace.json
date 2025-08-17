@@ -6,7 +6,6 @@
       {
         "id": "f4eb6b5328c9010d",
         "type": "tabs",
-        "dimension": 74.61928934010153,
         "children": [
           {
             "id": "203a4329cd56d594",
@@ -70,42 +69,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "e305d5d8a4695fbb",
-        "type": "tabs",
-        "dimension": 12.690355329949238,
-        "children": [
-          {
-            "id": "80bb252a73077e54",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9cd6831357041279",
-        "type": "tabs",
-        "dimension": 12.690355329949238,
-        "children": [
-          {
-            "id": "dc1cb9b67ea4c119",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -226,12 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Index"
             }
           },
           {
@@ -284,7 +248,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "juggl:Juggl global graph": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
@@ -292,49 +255,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "dc1cb9b67ea4c119",
+  "active": "e32ae352996c3153",
   "lastOpenFiles": [
-    "Index.md",
-    "README.md",
-    "EXPLOITATION/Exploiting the Padding Oracle for RCE.md",
-    "ENUMERATION/Padding oracle.md",
-    "EXPLOITATION/Getting first flag.md",
-    "EXPLOITATION/Reverse Engineering Invite Code Generation.md",
-    "ENUMERATION/Dirsearch.md",
-    "ENUMERATION/Api.php.md",
-    "ENUMERATION/Web server.md",
     "ENUMERATION/Nmap.md",
+    "ENUMERATION/Web server.md",
+    "ENUMERATION/Api.php.md",
+    "EXPLOITATION/Reverse Engineering Invite Code Generation.md",
+    "EXPLOITATION/Getting first flag.md",
+    "ENUMERATION/Padding oracle.md",
+    "EXPLOITATION/Exploiting the Padding Oracle for RCE.md",
     "EXPLOITATION/Getting the second flag.md",
-    "images/Getting the second flag-20250809104655591.webp",
-    "images/Exploiting the Padding Oracle for RCE-20250706201803599.webp",
-    "images/Exploiting the Padding Oracle for RCE-20250706205324557.webp",
-    "images/Exploiting the Padding Oracle for RCE-20250706205130676.webp",
-    "images/Exploiting the Padding Oracle for RCE-20250706202420331.webp",
-    "Untitled",
-    "images/Getting first flag-20250701205153762.webp",
-    "images/Api.php-20250630200435951.webp",
-    "EXPLOITATION",
-    "images/Dirsearch-20250630210012665.webp",
-    "images/Dirsearch-20250630202208790.webp",
-    "images/Dirsearch-20250630202023210.webp",
+    "ENUMERATION/Dirsearch.md",
+    "Index.md",
+    "docs/Decryptify.html",
+    "docs/images/Web server-20250625211303324.webp",
+    "docs/images/Web server-20250625202951505.webp",
+    "docs/images/Nmap-20250625201412741.webp",
+    "docs/images/Nmap-20250625200721487.webp",
+    "docs/images/Index-20250625195818582.webp",
+    "docs/images/Getting the second flag-20250809104655591.webp",
+    "docs/images/Getting first flag-20250701205153762.webp",
+    "docs/images/Exploiting the Padding Oracle for RCE-20250706205324557.webp",
+    "docs/images/Exploiting the Padding Oracle for RCE-20250706205130676.webp",
+    "docs/images/Exploiting the Padding Oracle for RCE-20250706201803599.webp",
+    "docs/images",
+    "docs/ENUMERATION/Nmap.html",
+    "docs/ENUMERATION/Web server.html",
+    "docs/ENUMERATION/Api.php.html",
+    "docs/EXPLOITATION/Reverse Engineering Invite Code Generation.html",
+    "docs/EXPLOITATION/Getting first flag.html",
+    "docs/ENUMERATION/Padding oracle.html",
+    "docs/EXPLOITATION/Exploiting the Padding Oracle for RCE.html",
+    "docs/EXPLOITATION/Getting the second flag.html",
+    "README.md",
     "Decryptify/README.md",
-    "Decryptify",
-    "ENUMERATION",
-    "images",
     "ENTRY HOST/Exploitation.md",
     "ENTRY HOST/Enumeration.md",
     "WINDOWS MACHINE/Privilege Escalation.md",
     "WINDOWS MACHINE/Connecting to Windows Machine.md",
     "ENTRY HOST/Privilege Escalation.md",
     "Registration.md",
-    "docs/lib/media",
-    "docs/Registration.html",
-    "docs/index.html",
-    "docs/WINDOWS MACHINE/Privilege Escalation.html",
-    "docs/WINDOWS MACHINE/Connecting to Windows Machine.html",
     "Untitled.md",
     "Bandit/README.md",
     "Bandir/README.md"
