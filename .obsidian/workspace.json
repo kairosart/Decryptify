@@ -261,6 +261,8 @@
   },
   "active": "e32ae352996c3153",
   "lastOpenFiles": [
+    "docs/Decryptify.html",
+    "docs",
     "ENUMERATION/Nmap.md",
     "ENUMERATION/Web server.md",
     "ENUMERATION/Api.php.md",
@@ -271,7 +273,6 @@
     "EXPLOITATION/Getting the second flag.md",
     "ENUMERATION/Dirsearch.md",
     "Index.md",
-    "docs/Decryptify.html",
     "docs/images/Web server-20250625211303324.webp",
     "docs/images/Web server-20250625202951505.webp",
     "docs/images/Nmap-20250625201412741.webp",
