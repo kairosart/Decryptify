@@ -1,44 +1,30 @@
 {
   "main": {
-    "id": "ebac97619e5d4076",
+    "id": "b737129de1630734",
     "type": "split",
     "children": [
       {
-        "id": "f4eb6b5328c9010d",
+        "id": "1618971fbd316701",
         "type": "tabs",
+        "dimension": 87.30964467005076,
         "children": [
           {
-            "id": "203a4329cd56d594",
+            "id": "904a310ff662b2a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENUMERATION/Dirsearch.md",
+                "file": "ENUMERATION/Enumeration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dirsearch"
+              "title": "Enumeration"
             }
           },
           {
-            "id": "60825a59c0bfe774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXPLOITATION/Exploiting the Padding Oracle for RCE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Exploiting the Padding Oracle for RCE"
-            }
-          },
-          {
-            "id": "e32ae352996c3153",
+            "id": "d6383bc8cd6f4007",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,36 +39,68 @@
             }
           },
           {
-            "id": "c0d5ffe7abdae121",
+            "id": "662a6556359a0afc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/Reverse Engineering Invite Code Generation.md",
+                "file": "PRIVILEGE ESCALATION/Admin shell and Third Flag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Engineering Invite Code Generation"
+              "title": "Admin shell and Third Flag"
+            }
+          },
+          {
+            "id": "e283a068f3cf8c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXPLOITATION/Getting a shell and flag 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Getting a shell and flag 2"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "ae5f4984e1054cc2",
+        "type": "tabs",
+        "dimension": 12.690355329949238,
+        "children": [
+          {
+            "id": "ef33df5b7e2d6168",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d43631c76edab659",
+    "id": "e1c93e62aea9f6a6",
     "type": "split",
     "children": [
       {
-        "id": "84a312a223740661",
+        "id": "bc33873873c43585",
         "type": "tabs",
         "children": [
           {
-            "id": "d9c4cdafe83e6213",
+            "id": "dff4c984d79ec35a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -95,12 +113,12 @@
             }
           },
           {
-            "id": "657c319f03dec69d",
+            "id": "5d66f4ee62eb718a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "env",
+                "query": "cra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +130,7 @@
             }
           },
           {
-            "id": "e5b362d87a3f2526",
+            "id": "1559b2d65fbdd0d4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -128,15 +146,15 @@
     "width": 300
   },
   "right": {
-    "id": "c5d865235b248c7d",
+    "id": "4540409740734342",
     "type": "split",
     "children": [
       {
-        "id": "db09267ea51ac3c6",
+        "id": "3761a01c90cfacc0",
         "type": "tabs",
         "children": [
           {
-            "id": "23c198f537f0055b",
+            "id": "bb52b450ee7246e3",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -150,12 +168,12 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "backlink"
             }
           },
           {
-            "id": "f62e1205345c5a25",
+            "id": "b577b01619fcdf0e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -169,7 +187,7 @@
             }
           },
           {
-            "id": "2406bba1154e834c",
+            "id": "4d156503abb7a334",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -184,58 +202,37 @@
             }
           },
           {
-            "id": "fa91bb88e56b6e0d",
+            "id": "8d517934d5e4190e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline"
             }
           },
           {
-            "id": "7be80e4c935904c8",
+            "id": "4f06e16daf57dee2",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
-            "id": "5e1755b4db1ef1aa",
+            "id": "de986d41e305ffd0",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "afbc393aec26287c",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "405b76a513962b1f",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
         ]
@@ -247,8 +244,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "juggl:Juggl global graph": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
+      "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -256,52 +252,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export as HTML": false
+      "juggl:Juggl global graph": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e32ae352996c3153",
+  "active": "ef33df5b7e2d6168",
   "lastOpenFiles": [
-    "docs/Decryptify.html",
-    "docs",
-    "ENUMERATION/Nmap.md",
-    "ENUMERATION/Web server.md",
-    "ENUMERATION/Api.php.md",
-    "EXPLOITATION/Reverse Engineering Invite Code Generation.md",
-    "EXPLOITATION/Getting first flag.md",
-    "ENUMERATION/Padding oracle.md",
-    "EXPLOITATION/Exploiting the Padding Oracle for RCE.md",
-    "EXPLOITATION/Getting the second flag.md",
-    "ENUMERATION/Dirsearch.md",
+    "docs/lib/metadata.json",
     "Index.md",
-    "docs/images/Web server-20250625211303324.webp",
-    "docs/images/Web server-20250625202951505.webp",
-    "docs/images/Nmap-20250625201412741.webp",
-    "docs/images/Nmap-20250625200721487.webp",
-    "docs/images/Index-20250625195818582.webp",
-    "docs/images/Getting the second flag-20250809104655591.webp",
-    "docs/images/Getting first flag-20250701205153762.webp",
-    "docs/images/Exploiting the Padding Oracle for RCE-20250706205324557.webp",
-    "docs/images/Exploiting the Padding Oracle for RCE-20250706205130676.webp",
-    "docs/images/Exploiting the Padding Oracle for RCE-20250706201803599.webp",
-    "docs/images",
-    "docs/ENUMERATION/Nmap.html",
-    "docs/ENUMERATION/Web server.html",
-    "docs/ENUMERATION/Api.php.html",
-    "docs/EXPLOITATION/Reverse Engineering Invite Code Generation.html",
-    "docs/EXPLOITATION/Getting first flag.html",
-    "docs/ENUMERATION/Padding oracle.html",
-    "docs/EXPLOITATION/Exploiting the Padding Oracle for RCE.html",
-    "docs/EXPLOITATION/Getting the second flag.html",
-    "README.md",
-    "Decryptify/README.md",
-    "ENTRY HOST/Exploitation.md",
-    "ENTRY HOST/Enumeration.md",
-    "WINDOWS MACHINE/Privilege Escalation.md",
-    "WINDOWS MACHINE/Connecting to Windows Machine.md",
-    "ENTRY HOST/Privilege Escalation.md",
-    "Registration.md",
-    "Untitled.md",
-    "Bandit/README.md",
-    "Bandir/README.md"
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/lib/fonts/085cb93e613ba3d40d2b.woff2",
+    "EXPLOITATION/Getting the second flag.md",
+    "EXPLOITATION/Getting first flag.md",
+    "EXPLOITATION/Exploiting the Padding Oracle for RCE.md",
+    "ENUMERATION/Web server.md",
+    "ENUMERATION/Nmap.md",
+    "ENUMERATION/Dirsearch.md",
+    "ENUMERATION/Api.php.md",
+    "EXPLOITATION/Enumeration.md",
+    "EXPLOITATION/Getting a shell and flag 2.md",
+    "PRIVILEGE ESCALATION/Admin shell and Third Flag.md",
+    "ENUMERATION/Enumeration.md",
+    "ENUMERATION/Spark Messenger.md",
+    "ENUMERATION/SMB enumeration and Flag 1.md",
+    "ENUMERATION/Install OpenJDK 8 on Kali Linux.md",
+    "EXPLOITATION/Cracking the hash.md",
+    "Welcome.md",
+    "images/Admin shell and Third Flag-20250502112125174.webp",
+    "images/Enumeration-20250502111301457.webp",
+    "images/Enumeration-20250501102940688.webp",
+    "images/Enumeration-20250501111545260.webp",
+    "images/Enumeration-20250501111220432.webp",
+    "images/Enumeration-20250501110149062.webp",
+    "images/Enumeration-20250501104418383.webp",
+    "images/Enumeration-20250501103845862.webp",
+    "images/Enumeration-20250501103711570.webp",
+    "EXPLOITATION/Exploitation.md",
+    "Ra/README.md"
   ]
 }
